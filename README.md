@@ -18,4 +18,4 @@ The solution is to set up Public as the default repo type on your DockerHub acco
 
 [![Publish Docker image](https://github.com/speedrapide10/my-code-server/actions/workflows/Deploy-image-to-GitHub-and-DockerHub.yml/badge.svg)](https://github.com/speedrapide10/my-code-server/actions/workflows/Deploy-image-to-GitHub-and-DockerHub.yml)
 
-vscode v4.95.3-ls243 released
+vscode v4.96.2-ls248 released
